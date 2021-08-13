@@ -1,0 +1,15 @@
+{
+    "name": "HandcraftedGames.Utils.DispatchQueue",
+    "references": [
+        "GUID:8fbf3956f250d4227bd1ec74f2501127"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

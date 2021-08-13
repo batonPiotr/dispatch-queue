@@ -1,0 +1,20 @@
+{
+  "name": "com.handcraftedgames.utils.dispatchqueue",
+  "version": "1.0.0",
+  "displayName": "Dispatch Queue",
+  "description": "A serial dispatch queue which runs on a specific task scheduler and guarantees the order of executed tasks.",
+  "unity": "2018.0",
+ "keywords": [
+    "Async",
+    "HandcraftedGames",
+    "DispatchQueue",
+    "Dispatch",
+    "Queue",
+    "Serial"
+  ],
+  "author": {
+    "name": "Pawel Sulik",
+    "email": "pawel.sulik@handcrafted.games",
+    "url": "https://handcrafted.games"
+  }
+}
