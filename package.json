@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Dispatch Queue",
   "description": "A serial dispatch queue which runs on a specific task scheduler and guarantees the order of executed tasks.",
-  "unity": "2018.0",
+  "unity": "2018.4",
  "keywords": [
     "Async",
     "HandcraftedGames",
