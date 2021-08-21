@@ -1,6 +1,6 @@
 {
   "name": "com.handcraftedgames.utils.dispatchqueue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Dispatch Queue",
   "description": "A serial dispatch queue which runs on a specific task scheduler and guarantees the order of executed tasks.",
   "unity": "2018.4",
