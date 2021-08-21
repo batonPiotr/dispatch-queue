@@ -1,5 +1,5 @@
 {
-    "name": "AsyncTest",
+    "name": "HandcraftedGames.Utils.DispatchQueue.Tests",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
